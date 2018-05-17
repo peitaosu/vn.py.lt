@@ -1,0 +1,17 @@
+requests
+setuptools
+numpy
+Cerberus
+matplotlib
+msgpack_python
+pandas
+psutil
+pymongo
+pyqtgraph
+qdarkstyle
+qtpy
+seaborn
+ctypes_snappy
+tushare
+websocket_client
+pyzmq
